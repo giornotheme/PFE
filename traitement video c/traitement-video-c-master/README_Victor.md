@@ -35,9 +35,10 @@ Faut maintenant configurer internet :
 Normalement vous avez internet : pour tester écrivez : ping 8.8.8.8
 
 ## Pour OpenCV sur Python : 
+```
 - sudo apt update
 - sudo apt-get install -y libopencv-dev python-opencv python-picamera libwebp-dev libtiff5 libilmbase-dev libopenexr-dev libgstreamer1.0-dev
-
+```
 Normalement vous avez opencv et python d'installés maintenant
 
 Branchez la caméra à la raspi (regardez des vidéos yt)
